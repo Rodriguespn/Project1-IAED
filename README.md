@@ -1,5 +1,5 @@
 # Project1-IAED
-Small project for the Algoritms Introduction and Data Structures course.
+Small project for the Introduction to Algorithms and Data Structures course.
 
 This is a schedule for 10 different rooms, where we can schedule reunions and events, writen in C programming language.
 
